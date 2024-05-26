@@ -4,4 +4,6 @@
     <string name="person_name">Person Name</string>
     <string name="person_age">Person Age</string>
     <string name="person_city">Person City</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
